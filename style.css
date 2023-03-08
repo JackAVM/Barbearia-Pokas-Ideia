@@ -18,3 +18,71 @@
     margin: 0 16px;
     font-size: 24px;
 }
+.texto-um{
+    font-size: 24px;
+}
+.texto-dois{
+    font-size: 24 px;
+    margin: 0 16px;
+}
+.logar{
+    font-size: 24px;
+    margin: 0 16px;
+}
+.Agendar{
+    font-size: 24px;
+    margin: 0 16px;
+}
+.nome{
+    font-size: 24px;
+    margin: 0 16px;
+}
+.email{
+    font-size: 24px;
+    margin: 0 16px;
+}
+.Telefone{
+    font-size: 24px;
+    margin: 0 16px;
+}
+.login{
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+    margin: 0 16px;
+}
+.opcao-um{
+    font-size: 24px;
+    margin: 0 20px;
+}
+.opcao-dois{
+    font-size: 24px;
+    margin: 0 20px;
+}
+.opcao-tres{
+    font-size: 24px;
+    margin: 0 20px;
+}
+.opcao-quatro{
+    font-size: 24px;
+    margin: 0 20px;
+}
+.opcao-cinco{
+    font-size: 24px;
+    margin: 0 20px;
+}
+.opcao-seis{
+    font-size: 24px;
+    margin: 0 20px;
+}
+.opcao-sete{
+    font-size: 24px;
+    margin: 0 20px;
+}
+.promocao{
+    font-size: 30px;
+    margin: 0 20px;
+    color: red;
+.a-promocao{
+    font-size: 24px;
+    margin: 0 20px;
+}
