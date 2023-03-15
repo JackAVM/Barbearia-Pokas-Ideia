@@ -3,11 +3,12 @@
     padding: 0;
 }
 .cabecalho{
-    background-color: #6284bb;
+    background-color:indigo;
     color: azure;
     display: flex;
     justify-content: space-around;
     padding: 24px 0;
+
  }
 .cabecalho-imagem{
     width: 20%;
@@ -17,6 +18,7 @@
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
+    
 }
 .texto-um{
     font-size: 24px;
@@ -26,7 +28,7 @@
     margin: 0 16px;
 }
 .logar{
-    font-size: 24px;
+    font-size: 20px;
     margin: 0 16px;
 }
 .Agendar{
@@ -46,9 +48,10 @@
     margin: 0 16px;
 }
 .login{
-    font-size: 35px;
+    font-size: 25px;
     color: rgb(0, 0, 0);
     margin: 0 16px;
+    
 }
 .opcao-um{
     font-size: 24px;
@@ -79,10 +82,11 @@
     margin: 0 20px;
 }
 .promocao{
-    font-size: 30px;
+    font-size: 25px;
     margin: 0 20px;
     color: red;
-.a-promocao{
+}
+    .a-promocao{
     font-size: 24px;
     margin: 0 20px;
 }
